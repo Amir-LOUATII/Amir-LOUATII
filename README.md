@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Amir-LOUATI
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML&CSS
+- 🌱 I’m currently learning HTML&CSS and javaScript
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
